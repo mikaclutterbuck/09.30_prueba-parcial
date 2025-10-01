@@ -12,7 +12,9 @@ padding: 20px;
 display:flex;}
 
 #Header2 {
-text-decoration: none;}
+text-decoration: none;
+color: white;
+}
 
 #Header2:hover {
 color: black; }
@@ -89,4 +91,5 @@ footer {background-color: #1950bd;}
 header {background-color: #11306c;}
 main a {background-color: #11306c;}
 footer {background-color: #11306c;}
+
 }
